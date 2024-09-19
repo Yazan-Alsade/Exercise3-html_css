@@ -1,0 +1,29 @@
+/* .projects-section {
+    display: flex;
+    gap: 10px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    position: relative;
+}
+
+.project-card {
+    width: 150px;
+    height: 100px;
+    background-color: #f0f0f0;
+    text-align: center;
+    line-height: 100px;
+    border: 1px solid #ccc;
+    position: relative;
+}
+
+.project-card-outside {
+    width: 150px;
+    height: 100px;
+    background-color: #ffeb3b;
+    text-align: center;
+    line-height: 100px;
+    border: 1px solid #ccc;
+    position: absolute; 
+    top: 500; 
+    left: 300px;
+} */
